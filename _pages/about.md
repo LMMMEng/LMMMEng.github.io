@@ -29,7 +29,7 @@ My research interest lies at the intersection of computer vision and machine lea
 - *2024.12*: &nbsp;🎉 One paper is accepted by *AAAI 2025*.
 - *2024.01*: &nbsp;👨‍🎓 I commenced my PhD studies at HKU.
 
-# 📚 Selcted Publications
+# 📚 Selected Publications
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/sparx.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
