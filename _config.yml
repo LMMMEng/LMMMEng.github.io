@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Meng Lou (娄蒙)"
+title                    : "LMMM"
 description              : "Ph.D. Student"
 repository               : "LMMMEng/LMMMEng.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Meng Lou"
+  name             : "Meng Lou (娄蒙)"
   avatar           : "images/8cc2eaea432f1d06a42f68c74746b32e.jpg"
   bio              : "The University of Hong Kong"
   location         : "Hong Kong SAR, China"
