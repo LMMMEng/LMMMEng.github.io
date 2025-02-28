@@ -33,9 +33,9 @@ My research interest lies at the intersection of computer vision and machine lea
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/sparx.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-📄 [**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**]()   
+📄 [**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**](https://arxiv.org/abs/2502.20087)   
 ***Meng Lou**, Yizhou Yu*  
-[CVPR 2025](https://cvpr.thecvf.com/) | [Paper]() | [Code](https://github.com/LMMMEng/OverLoCK)
+[CVPR 2025](https://cvpr.thecvf.com/) | [Paper](https://arxiv.org/abs/2502.20087) | [Code](https://github.com/LMMMEng/OverLoCK)
 
 📄 [**SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation**](https://arxiv.org/abs/2412.11890)   
 *Yunxiang Fu, **Meng Lou**, Yizhou Yu*  
