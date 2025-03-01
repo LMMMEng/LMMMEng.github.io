@@ -65,9 +65,11 @@ My research interest lies at the intersection of computer vision and machine lea
 
 # 🔍 Academic Services
 
-- Conference Reviewer: CVPR 2025, ICML 2025, ICLR 2025, AISTATS 2025, NeurIPS 2024, etc.
+- Conference Reviewer:
+> CVPR 2025, ICML 2025, ICLR 2025, AISTATS 2025, MICCAI 2024/2025, NeurIPS 2024, etc.
 
-- Journal Reviewer: TMLR, IEEE TNNLS, Knowledge-Based Systems, Medical Physics, etc.
+- Journal Reviewer:
+> TMLR, IEEE TNNLS, Knowledge-Based Systems, Medical Physics, etc.
 
 
 <!-- # 🌍 Visitor Map
