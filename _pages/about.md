@@ -19,14 +19,14 @@ redirect_from:
 
 # 📝 Biography
 I am currently a second-year Ph.D. student at [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/index.html) (ACM/IEEE Fellow). Before that, I received my M.Eng degree from [School of Information Science and Engineering](https://xxxyen.lzu.edu.cn), [Lanzhou University](https://en.lzu.edu.cn).
-My research interest lies at the intersection of computer vision and machine learning, focusing on foundation vision models and continual learning.
+My research interest lies at the intersection of computer vision and machine learning, focusing on vision foundation models and medical Image analysis.
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉 Two papers are accepted by *CVPR 2025*.
-- *2025.01*: &nbsp;🎉 One paper is accepted by *Neural Networks*.
-- *2024.12*: &nbsp;🎉 One paper is accepted by *IEEE JBHI*.
-- *2024.12*: &nbsp;🎉 One paper is accepted by *AAAI 2025*.
+- *2025.02*: &nbsp;🎉 Two papers are accepted by [*CVPR 2025*](https://cvpr.thecvf.com/).
+- *2025.01*: &nbsp;🎉 One paper is accepted by [*Neural Networks*](https://www.sciencedirect.com/journal/neural-networks).
+- *2024.12*: &nbsp;🎉 One paper is accepted by [*IEEE JBHI*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020).
+- *2024.12*: &nbsp;🎉 One paper is accepted by [*AAAI 2025*](https://aaai.org/conference/aaai/aaai-25/).
 - *2024.01*: &nbsp;👨‍🎓 I commenced my PhD studies at HKU.
 
 # 📚 Selected Publications
@@ -47,9 +47,9 @@ My research interest lies at the intersection of computer vision and machine lea
 
 📄 [**SDR-Former: A Siamese Dual-Resolution Transformer for Liver Lesion Classification Using 3D Multi-Phase Imaging**](https://www.sciencedirect.com/science/article/pii/S0893608025001078)   
 ***Meng Lou**, Hanning Ying, Xiaoqing Liu, Hong-Yu Zhou, Yuqing Zhang, Yizhou Yu*   
-[Neural Networks 2025](https://www.sciencedirect.com/journal/neural-networks) | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608025001078) | [Code](https://github.com/LMMMEng/LLD-MMRI-Dataset)
+[NN 2025](https://www.sciencedirect.com/journal/neural-networks) | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608025001078) | [Data](https://github.com/LMMMEng/LLD-MMRI-Dataset)
 
-[🖱 View More](https://scholar.google.com/citations?hl=en&user=7LpSm34AAAAJ&view_op=list_works&sortby=pubdate)
+[➡️ **View More**](https://scholar.google.com/citations?hl=en&user=7LpSm34AAAAJ&view_op=list_works&sortby=pubdate)
 
 
 # ⚙️ Work Experiences
@@ -65,11 +65,11 @@ My research interest lies at the intersection of computer vision and machine lea
 
 # 🔍 Academic Services
 
-- Conference Reviewer:
-> CVPR 2025, ICML 2025, ICLR 2025, AISTATS 2025, MICCAI 2024/2025, NeurIPS 2024, etc.
+- **Conference Reviewer:**
+> NeurIPS 2025/2024, CVPR 2025, ICML 2025, ICLR 2025, MICCAI 2025/2024, AISTATS 2025, etc.
 
-- Journal Reviewer:
-> TMLR, IEEE TNNLS, Knowledge-Based Systems, Medical Physics, etc.
+- **Journal Reviewer:**
+> TPAMI, TMLR, TNNLS, Knowledge-Based Systems, Medical Physics, etc.
 
 
 <!-- # 🌍 Visitor Map
