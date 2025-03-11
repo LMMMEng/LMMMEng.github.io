@@ -22,7 +22,8 @@ I am currently a second-year Ph.D. student at [Department of Computer Science](h
 My research interest lies at the intersection of computer vision and machine learning, focusing on vision foundation models and medical Image analysis.
 
 
-# 🔥 News
+# 🔥 News    
+- *2025.03*: &nbsp;🎉 One paper is accepted by [*IEEE TNNLS*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 - *2025.02*: &nbsp;🎉 Two papers are accepted by [*CVPR 2025*](https://cvpr.thecvf.com/).
 - *2025.01*: &nbsp;🎉 One paper is accepted by [*Neural Networks*](https://www.sciencedirect.com/journal/neural-networks).
 - *2024.12*: &nbsp;🎉 One paper is accepted by [*IEEE JBHI*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020).
@@ -44,6 +45,10 @@ My research interest lies at the intersection of computer vision and machine lea
 📄 [**SparX: A Sparse Cross-Layer Connection Mechanism for Hierarchical Vision Mamba and Transformer Networks**](https://arxiv.org/abs/2409.09649)  
 ***Meng Lou**, Yunxiang Fu, Yizhou Yu*  
 [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) | [Paper](https://arxiv.org/abs/2409.09649) | [Code](https://github.com/LMMMEng/SparX)
+
+📄 [**TransXNet: Learning Both Global and Local Dynamics with a Dual Dynamic Token Mixer for Visual Recognition**](https://arxiv.org/abs/2310.19380)  
+***Meng Lou**, Hong-Yu Zhou, Sibei Yang, Yizhou Yu*  
+[TNNLS 2025](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | [Paper](https://arxiv.org/abs/2310.19380) | [Code](https://goo.su/lySyydN)
 
 📄 [**SDR-Former: A Siamese Dual-Resolution Transformer for Liver Lesion Classification Using 3D Multi-Phase Imaging**](https://www.sciencedirect.com/science/article/pii/S0893608025001078)   
 ***Meng Lou**, Hanning Ying, Xiaoqing Liu, Hong-Yu Zhou, Yuqing Zhang, Yizhou Yu*   
