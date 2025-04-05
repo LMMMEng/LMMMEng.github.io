@@ -23,6 +23,7 @@ My research interest lies at the intersection of computer vision and machine lea
 
 
 # 🔥 News    
+- *2025.04*: &nbsp;🎉 [OverLoCK](https://arxiv.org/abs/2502.20087) is selected for a CVPR Oral paper (3.3% of the accepted papers).
 - *2025.03*: &nbsp;🎉 One paper is accepted by [*IEEE TNNLS*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 - *2025.02*: &nbsp;🎉 Two papers are accepted by [*CVPR 2025*](https://cvpr.thecvf.com/).
 - *2025.01*: &nbsp;🎉 One paper is accepted by [*Neural Networks*](https://www.sciencedirect.com/journal/neural-networks).
@@ -36,7 +37,7 @@ My research interest lies at the intersection of computer vision and machine lea
 
 📄 [**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**](https://arxiv.org/abs/2502.20087)   
 ***Meng Lou**, Yizhou Yu*  
-[CVPR 2025](https://cvpr.thecvf.com/) | [Paper](https://arxiv.org/abs/2502.20087) | [Code](https://github.com/LMMMEng/OverLoCK)
+[CVPR 2025 (**Oral**)](https://cvpr.thecvf.com/) | [Paper](https://arxiv.org/abs/2502.20087) | [Code](https://github.com/LMMMEng/OverLoCK)
 
 📄 [**SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation**](https://arxiv.org/abs/2412.11890)   
 *Yunxiang Fu, **Meng Lou**, Yizhou Yu*  
