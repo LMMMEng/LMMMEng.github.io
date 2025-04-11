@@ -27,7 +27,8 @@ author:
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7LpSm34AAAAJ&view_op=list_works"
+  # orcid            : "https://orcid.org/0000-0001-5409-0281"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7LpSm34AAAAJ&view_op=list_works&sortby=pubdate"
   email            : "lmzmm.0921@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -45,7 +46,6 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-5409-0281"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
