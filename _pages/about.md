@@ -37,27 +37,27 @@ My research interest lies at the intersection of computer vision and machine lea
 
 📄 [**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**](https://arxiv.org/abs/2502.20087)   
 **Meng Lou**, Yizhou Yu       
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2025 - **Oral (Top 3.3% of the accepted papers)***               
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025 - **Oral (Top 3.3% of the accepted papers)***               
 [[Paper](https://arxiv.org/abs/2502.20087)]  [[Code](https://github.com/LMMMEng/OverLoCK)]
 
 📄 [**SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation**](https://arxiv.org/abs/2412.11890)   
 Yunxiang Fu, **Meng Lou**, Yizhou Yu    
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2025*     
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025*     
 [[Paper](https://arxiv.org/abs/2412.11890)] [[Code](https://github.com/yunxiangfu2001/SegMAN)]
 
 📄 [**SparX: A Sparse Cross-Layer Connection Mechanism for Hierarchical Vision Mamba and Transformer Networks**](https://arxiv.org/abs/2409.09649)  
 **Meng Lou**, Yunxiang Fu, Yizhou Yu   
-*AAAI Conference on Artificial Intelligence (**AAAI**) 2025*      
+*AAAI Conference on Artificial Intelligence (**AAAI**), 2025*      
 [[Paper](https://arxiv.org/abs/2409.09649)] [[Code](https://github.com/LMMMEng/SparX)]
 
 📄 [**TransXNet: Learning Both Global and Local Dynamics with a Dual Dynamic Token Mixer for Visual Recognition**](https://arxiv.org/abs/2310.19380)  
 **Meng Lou**, Shu Zhang, Hong-Yu Zhou, Sibei Yang, Chuan Wu, Yizhou Yu    
-*IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**) 2025*       
+*IEEE Transactions on Neural Networks and Learning Systems, (**TNNLS**) 2025*       
 [[Paper](https://doi.org/10.1109/TNNLS.2025.3550979)] [[Code](https://goo.su/lySyydN)]
 
 📄 [**SDR-Former: A Siamese Dual-Resolution Transformer for Liver Lesion Classification Using 3D Multi-Phase Imaging**](https://www.sciencedirect.com/science/article/pii/S0893608025001078)   
 **Meng Lou**, Hanning Ying, Xiaoqing Liu, Hong-Yu Zhou, Yuqin Zhang, Yizhou Yu   
-*Neural Networks 2025*     
+*Neural Networks, 2025*     
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608025001078)] [[Data](https://github.com/LMMMEng/LLD-MMRI-Dataset)]
 
 [➡️ **View More**](https://scholar.google.com/citations?hl=en&user=7LpSm34AAAAJ&view_op=list_works&sortby=pubdate)
