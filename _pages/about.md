@@ -36,7 +36,7 @@ My research interest lies at the intersection of computer vision and machine lea
 <div class='paper-box-text' markdown="1"> -->
 
 📄 [**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**](https://arxiv.org/abs/2502.20087)   
-***Meng Lou**, Yizhou Yu*  
+***Meng Lou**, Yizhou Yu*       
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2025* - ***Oral (Top 3.3% of the accepted papers)***     
 [[Paper](https://arxiv.org/abs/2502.20087)]  [[Code](https://github.com/LMMMEng/OverLoCK)]
 
