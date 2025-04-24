@@ -52,7 +52,7 @@ Yunxiang Fu, **Meng Lou**, Yizhou Yu
 
 📄 [**TransXNet: Learning Both Global and Local Dynamics with a Dual Dynamic Token Mixer for Visual Recognition**](https://arxiv.org/abs/2310.19380)  
 **Meng Lou**, Shu Zhang, Hong-Yu Zhou, Sibei Yang, Chuan Wu, Yizhou Yu    
-*IEEE Transactions on Neural Networks and Learning Systems, (**TNNLS**) 2025*       
+*IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2025*       
 [[Paper](https://doi.org/10.1109/TNNLS.2025.3550979)] [[Code](https://goo.su/lySyydN)]
 
 📄 [**SDR-Former: A Siamese Dual-Resolution Transformer for Liver Lesion Classification Using 3D Multi-Phase Imaging**](https://www.sciencedirect.com/science/article/pii/S0893608025001078)   
