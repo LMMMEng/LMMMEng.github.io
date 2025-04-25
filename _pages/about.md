@@ -18,8 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📝 Biography
-I am currently a second-year Ph.D. student at [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/index.html) (ACM/IEEE Fellow). Before that, I received my M.Eng degree from [School of Information Science and Engineering](https://xxxyen.lzu.edu.cn), [Lanzhou University](https://en.lzu.edu.cn).
-My research interest lies at the intersection of computer vision and machine learning, focusing on vision foundation models and medical Image analysis.
+I am currently a second-year Ph.D. student at [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/index.html) (ACM/IEEE Fellow). Before that, I received my M.Eng degree from [School of Information Science and Engineering](https://xxxyen.lzu.edu.cn), [Lanzhou University](https://en.lzu.edu.cn). My research focuses on the intersection of computer vision and machine learning, particularly in developing **vision foundation models**.
 
 
 # 🔥 News    
