@@ -28,6 +28,7 @@ I am currently a second-year Ph.D. student at [Department of Computer Science](h
 - *2025.01*: &nbsp;🎉 One paper is accepted by [*Neural Networks*](https://www.sciencedirect.com/journal/neural-networks).
 - *2024.12*: &nbsp;🎉 One paper is accepted by [*IEEE JBHI*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020).
 - *2024.12*: &nbsp;🎉 One paper is accepted by [*AAAI 2025*](https://aaai.org/conference/aaai/aaai-25/).
+- *2024.09*: &nbsp;🎉 I'm recognized as one of the [*NeurIPS 2024 Top Reviewers*](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers).
 - *2024.01*: &nbsp;👨‍🎓 I commenced my PhD studies at HKU.
 
 # 📚 Publications
@@ -37,27 +38,27 @@ I am currently a second-year Ph.D. student at [Department of Computer Science](h
 📄 [**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**](https://arxiv.org/abs/2502.20087)   
 **Meng Lou**, Yizhou Yu       
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025 - **Oral (Top 3.3% of the accepted papers)***               
-[[Paper](https://arxiv.org/abs/2502.20087)]  [[Code](https://github.com/LMMMEng/OverLoCK)]
+[[**Paper**](https://arxiv.org/abs/2502.20087)]  [[**Code**](https://github.com/LMMMEng/OverLoCK)]
 
 📄 [**SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation**](https://arxiv.org/abs/2412.11890)   
 Yunxiang Fu, **Meng Lou**, Yizhou Yu    
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025*     
-[[Paper](https://arxiv.org/abs/2412.11890)] [[Code](https://github.com/yunxiangfu2001/SegMAN)]
+[[**Paper**](https://arxiv.org/abs/2412.11890)] [[**Code**](https://github.com/yunxiangfu2001/SegMAN)]
 
 📄 [**SparX: A Sparse Cross-Layer Connection Mechanism for Hierarchical Vision Mamba and Transformer Networks**](https://arxiv.org/abs/2409.09649)  
 **Meng Lou**, Yunxiang Fu, Yizhou Yu   
 *AAAI Conference on Artificial Intelligence (**AAAI**), 2025*      
-[[Paper](https://arxiv.org/abs/2409.09649)] [[Code](https://github.com/LMMMEng/SparX)]
+[[**Paper**](https://arxiv.org/abs/2409.09649)] [[**Code**](https://github.com/LMMMEng/SparX)]
 
 📄 [**TransXNet: Learning Both Global and Local Dynamics with a Dual Dynamic Token Mixer for Visual Recognition**](https://arxiv.org/abs/2310.19380)  
 **Meng Lou**, Shu Zhang, Hong-Yu Zhou, Sibei Yang, Chuan Wu, Yizhou Yu    
 *IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2025*       
-[[Paper](https://doi.org/10.1109/TNNLS.2025.3550979)] [[Code](https://goo.su/lySyydN)]
+[[**Paper**](https://doi.org/10.1109/TNNLS.2025.3550979)] [[**Code**](https://goo.su/lySyydN)]
 
 📄 [**SDR-Former: A Siamese Dual-Resolution Transformer for Liver Lesion Classification Using 3D Multi-Phase Imaging**](https://www.sciencedirect.com/science/article/pii/S0893608025001078)   
 **Meng Lou**, Hanning Ying, Xiaoqing Liu, Hong-Yu Zhou, Yuqin Zhang, Yizhou Yu   
 *Neural Networks, 2025*     
-[[Paper](https://www.sciencedirect.com/science/article/pii/S0893608025001078)] [[Data](https://github.com/LMMMEng/LLD-MMRI-Dataset)]
+[[**Paper**](https://www.sciencedirect.com/science/article/pii/S0893608025001078)] [[**Data**](https://github.com/LMMMEng/LLD-MMRI-Dataset)]
 
 [➡️ **View More**](https://scholar.google.com/citations?hl=en&user=7LpSm34AAAAJ&view_op=list_works&sortby=pubdate)
 
