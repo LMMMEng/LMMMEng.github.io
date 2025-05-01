@@ -77,7 +77,7 @@ Yunxiang Fu, **Meng Lou**, Yizhou Yu
 # 🔍 Academic Services
 
 - **Conference Reviewer:**
-> NeurIPS 2025/2024, MICCAI 2025/2024, etc.
+> ICCV2025, NeurIPS 2025/2024, MICCAI 2025/2024, etc.
 
 - **Journal Reviewer:**
 > TPAMI, TMLR, TNNLS, Knowledge-Based Systems, Medical Physics, etc.
