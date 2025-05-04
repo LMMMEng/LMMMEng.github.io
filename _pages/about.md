@@ -22,7 +22,7 @@ I am currently a second-year Ph.D. student at [Department of Computer Science](h
 
 
 # 🔥 News    
-- *2025.04*: &nbsp;🎉 [OverLoCK](https://arxiv.org/abs/2502.20087) is selected for a **CVPR Oral paper (3.3% of the accepted papers)**.
+- *2025.04*: &nbsp;🎉 [OverLoCK](https://arxiv.org/abs/2502.20087) is selected for a **CVPR Oral Paper (3.3% of the accepted papers)**.
 - *2025.03*: &nbsp;🎉 One paper is accepted by [*IEEE TNNLS*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 - *2025.02*: &nbsp;🎉 Two papers are accepted by [*CVPR 2025*](https://cvpr.thecvf.com/).
 - *2025.01*: &nbsp;🎉 One paper is accepted by [*Neural Networks*](https://www.sciencedirect.com/journal/neural-networks).
@@ -77,7 +77,7 @@ Yunxiang Fu, **Meng Lou**, Yizhou Yu
 # 🔍 Academic Services
 
 - **Conference Reviewer:**
-> ICCV2025, NeurIPS 2025/2024, MICCAI 2025/2024, etc.
+> ICCV 2025, NeurIPS 2025/2024, MICCAI 2025/2024, etc.
 
 - **Journal Reviewer:**
 > TPAMI, TMLR, TNNLS, Knowledge-Based Systems, Medical Physics, etc.
