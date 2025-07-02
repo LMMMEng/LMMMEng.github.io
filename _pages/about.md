@@ -67,13 +67,6 @@ Yunxiang Fu, **Meng Lou**, Yizhou Yu
 - *2022.07 - 2023.12*  Researcher, AI Lab, Deepwise Healthcare.
 - *2021.07 - 2021.10*  R&D Intern, Intelligent Creation, ByteDance.
 
-# 🥇 Honors and Awards
-- *2024.10*  NeurIPS 2024 Top Reviewers Award
-- *2022.06*  Outstanding Graduates
-- *2021.10*  National Scholarship
-- *2019.06*  Outstanding Graduates
-- *2016-2018*  National Encouragement Scholarship
-
 # 🔍 Academic Services
 
 - **Conference Reviewer:**
