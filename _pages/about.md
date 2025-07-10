@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📝 Biography
-I am currently a second-year Ph.D. student at [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/index.html) (ACM/IEEE Fellow). Before that, I received my M.Eng degree from [School of Information Science and Engineering](https://xxxyen.lzu.edu.cn), [Lanzhou University](https://en.lzu.edu.cn). My research focuses on the intersection of computer vision and machine learning, particularly in developing **vision foundation models**.
+I am currently a second-year Ph.D. student at [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), where I have the privilege of being supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/index.html) (ACM/IEEE Fellow). My research focuses on the intersection of computer vision and machine learning, particularly in developing **vision foundation models**.
 
 
 # 🔥 News    
-- *2025.04*: &nbsp;🎉 [OverLoCK](https://arxiv.org/abs/2502.20087) is selected for a **<font color="#dd0000">Oral Paper (3.3% of the accepted papers)</font>**.
+- *2025.04*: &nbsp;🎉 [OverLoCK](https://arxiv.org/abs/2502.20087) is selected for a **<font color="#dd0000">Oral Paper (Top 3.3% of the accepted papers)</font>**.
 - *2025.03*: &nbsp;🎉 One paper is accepted by [*IEEE TNNLS*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 - *2025.02*: &nbsp;🎉 Two papers are accepted by [*CVPR 2025*](https://cvpr.thecvf.com/).
 - *2025.01*: &nbsp;🎉 One paper is accepted by [*Neural Networks*](https://www.sciencedirect.com/journal/neural-networks).
@@ -37,7 +37,7 @@ I am currently a second-year Ph.D. student at [Department of Computer Science](h
 
 📄 [**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**](https://arxiv.org/abs/2502.20087)   
 **Meng Lou**, Yizhou Yu       
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025* - **<font color=red>Oral Paper (3.3% of the accepted papers).</font>**   
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025* - **<font color=red>Oral Paper (Top 3.3% of the accepted papers).</font>**   
 [[**Paper**](https://arxiv.org/abs/2502.20087)]  [[**Code**](https://github.com/LMMMEng/OverLoCK)]
 
 📄 [**SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation**](https://arxiv.org/abs/2412.11890)   
