@@ -22,14 +22,14 @@ I am currently a second-year Ph.D. student at [Department of Computer Science](h
 
 
 # 🔥 News    
-- *2025.04*: &nbsp;🎉 [OverLoCK](https://arxiv.org/abs/2502.20087) is selected for an **<font color="#dd0000">Oral Paper (Top 3.3% of the accepted papers)</font>**.
+- *2025.04*: &nbsp;🏆 [OverLoCK](https://arxiv.org/abs/2502.20087) is selected for an [**Oral Paper at CVPR 2025 (Top 3.3% of the accepted papers)**](https://cvpr.thecvf.com/virtual/2025/oral/35285).
 - *2025.03*: &nbsp;🎉 One paper is accepted by [*IEEE TNNLS*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 - *2025.02*: &nbsp;🎉 Two papers are accepted by [*CVPR 2025*](https://cvpr.thecvf.com/).
 - *2025.01*: &nbsp;🎉 One paper is accepted by [*Neural Networks*](https://www.sciencedirect.com/journal/neural-networks).
 - *2024.12*: &nbsp;🎉 One paper is accepted by [*IEEE JBHI*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020).
 - *2024.12*: &nbsp;🎉 One paper is accepted by [*AAAI 2025*](https://aaai.org/conference/aaai/aaai-25/).
 - *2024.09*: &nbsp;🎉 I'm recognized as one of the [*NeurIPS 2024 Top Reviewers*](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers).
-- *2024.01*: &nbsp;👨‍🎓 I commenced my PhD studies at HKU.
+- *2024.01*: &nbsp;👨‍🎓 I commenced my PhD studies at [HKU](https://www.hku.hk/).
 
 # 📚 Publications
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/sparx.jpg' alt="sym" width="100%"></div></div>
@@ -81,7 +81,8 @@ Yunxiang Fu, **Meng Lou**, Yizhou Yu
 > IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)      
 > Transactions on Machine Learning Research (TMLR)   
 > IEEE Transactions on Neural Networks and Learning Systems (TNNLS)  
-> IEEE Journal of Biomedical and Health Informatics (JBHI)  
+> IEEE Journal of Biomedical and Health Informatics (JBHI)    
+> Pattern Recognition       
 > Knowledge-Based Systems   
 > Medical Physics   
 > Scientific Reports  
