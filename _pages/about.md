@@ -22,7 +22,7 @@ I am currently a second-year Ph.D. student at [Department of Computer Science](h
 
 
 # 🔥 News    
-- *2025.04*: &nbsp;🏆 [OverLoCK](https://arxiv.org/abs/2502.20087) is selected for an [**Oral Paper at CVPR 2025 (Top 3.3% of the accepted papers)**](https://cvpr.thecvf.com/virtual/2025/oral/35285).
+- *2025.04*: &nbsp;🏆 [OverLoCK](https://arxiv.org/abs/2502.20087) is selected for an [**Oral Paper**](https://cvpr.thecvf.com/virtual/2025/oral/35285) at CVPR 2025 (Top 3.3% of the accepted papers).
 - *2025.03*: &nbsp;🎉 One paper is accepted by [*IEEE TNNLS*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 - *2025.02*: &nbsp;🎉 Two papers are accepted by [*CVPR 2025*](https://cvpr.thecvf.com/).
 - *2025.01*: &nbsp;🎉 One paper is accepted by [*Neural Networks*](https://www.sciencedirect.com/journal/neural-networks).
@@ -37,7 +37,8 @@ I am currently a second-year Ph.D. student at [Department of Computer Science](h
 
 📄 [**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**](https://arxiv.org/abs/2502.20087)   
 **Meng Lou**, Yizhou Yu       
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025* - **<font color=red>Oral Paper (Top 3.3% of the accepted papers).</font>**   
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025*     
+🏅**Oral Presentation (Top 3.3% of the accepted papers)**    
 [[**Paper**](https://arxiv.org/abs/2502.20087)]  [[**Code**](https://github.com/LMMMEng/OverLoCK)]
 
 📄 [**SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation**](https://arxiv.org/abs/2412.11890)   
