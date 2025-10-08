@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📝 Biography
-I am currently a second-year Ph.D. student at [Department of Computer Science](https://www.cs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), where I have the privilege of being supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/index.html) (ACM/IEEE Fellow). My research focuses on the intersection of computer vision and machine learning, particularly in developing **vision foundation models**.
+I am currently a second-year Ph.D. student at [Department of Computer Science](https://www.cds.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), where I have the privilege of being supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/index.html) (ACM/IEEE Fellow). My research focuses on the intersection of computer vision and machine learning, particularly in developing **vision foundation models**.
 
 
 # 🔥 News    
-- *2025.04*: &nbsp;🏆 [OverLoCK](https://arxiv.org/abs/2502.20087) is selected for an [**Oral Paper**](https://cvpr.thecvf.com/virtual/2025/oral/35285) at CVPR 2025 (Top 3.3% of the accepted papers).
+- *2025.04*: &nbsp;🏆 **[OverLoCK](https://arxiv.org/abs/2502.20087)** is selected as an [**Oral Paper**](https://cvpr.thecvf.com/virtual/2025/oral/35285) at **CVPR 2025** (**Top 3.3%** of the accepted papers).
 - *2025.03*: &nbsp;🎉 One paper is accepted by [*IEEE TNNLS*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
-- *2025.02*: &nbsp;🎉 Two papers are accepted by [*CVPR 2025*](https://cvpr.thecvf.com/).
+- *2025.02*: &nbsp;🎉 Two papers are accepted by [*CVPR 2025*](https://cvpr.thecvf.com/Conferences/2025).
 - *2025.01*: &nbsp;🎉 One paper is accepted by [*Neural Networks*](https://www.sciencedirect.com/journal/neural-networks).
 - *2024.12*: &nbsp;🎉 One paper is accepted by [*IEEE JBHI*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020).
 - *2024.12*: &nbsp;🎉 One paper is accepted by [*AAAI 2025*](https://aaai.org/conference/aaai/aaai-25/).
@@ -71,6 +71,7 @@ Yunxiang Fu, **Meng Lou**, Yizhou Yu
 # 🔍 Academic Services
 
 - **Conference Reviewer:**
+> ICLR 2026    
 > AAAI 2025    
 > ICCV 2025     
 > NeurIPS 2025/2024   
