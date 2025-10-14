@@ -38,7 +38,7 @@ I am currently a second-year Ph.D. student at [Department of Computer Science](h
 📄 [**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**](https://arxiv.org/abs/2502.20087)   
 **Meng Lou**, Yizhou Yu       
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025*     
-<font color="blue">🏅**Oral Presentation (Top 3.3% of the accepted papers)**</font>  
+<font color="blue">🏅Oral Presentation (Top 3.3% of the accepted papers)</font>  
 [[**Paper**](https://arxiv.org/abs/2502.20087)]  [[**Code**](https://github.com/LMMMEng/OverLoCK)]
 
 📄 [**SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation**](https://arxiv.org/abs/2412.11890)   
