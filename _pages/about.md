@@ -22,7 +22,7 @@ I am currently a second-year Ph.D. student at [Department of Computer Science](h
 
 
 # 🔥 News    
-- *2025.04*: &nbsp;🏆 **[OverLoCK](https://arxiv.org/abs/2502.20087)** is selected as an [**Oral Paper**](https://cvpr.thecvf.com/virtual/2025/oral/35285) at **CVPR 2025** (**Top 3.3%** of the accepted papers).
+- *2025.04*: &nbsp;🏆 [OverLoCK](https://arxiv.org/abs/2502.20087) is selected as an [**Oral Paper**](https://cvpr.thecvf.com/virtual/2025/oral/35285) at [*CVPR 2025*](https://cvpr.thecvf.com/Conferences/2025) (**Top 3.3%** of the accepted papers).
 - *2025.03*: &nbsp;🎉 One paper is accepted by [*IEEE TNNLS*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 - *2025.02*: &nbsp;🎉 Two papers are accepted by [*CVPR 2025*](https://cvpr.thecvf.com/Conferences/2025).
 - *2025.01*: &nbsp;🎉 One paper is accepted by [*Neural Networks*](https://www.sciencedirect.com/journal/neural-networks).
@@ -38,7 +38,7 @@ I am currently a second-year Ph.D. student at [Department of Computer Science](h
 📄 [**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**](https://arxiv.org/abs/2502.20087)   
 **Meng Lou**, Yizhou Yu       
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025*     
-🏅**Oral Presentation (Top 3.3% of the accepted papers)**    
+<font color="blue">🏅**Oral Presentation (Top 3.3% of the accepted papers)**</font>  
 [[**Paper**](https://arxiv.org/abs/2502.20087)]  [[**Code**](https://github.com/LMMMEng/OverLoCK)]
 
 📄 [**SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation**](https://arxiv.org/abs/2412.11890)   
@@ -77,18 +77,19 @@ Yunxiang Fu, **Meng Lou**, Yizhou Yu
 > NeurIPS 2025/2024   
 > BMCV 2025   
 > ECAI 2025   
-> MICCAI 2025/2024  
+> MICCAI 2025/2024   
+> · · ·   
 
 - **Journal Reviewer:**
 > IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)      
+> IEEE Transactions on Neural Networks and Learning Systems (TNNLS)   
 > Transactions on Machine Learning Research (TMLR)   
-> IEEE Transactions on Neural Networks and Learning Systems (TNNLS)  
 > IEEE Journal of Biomedical and Health Informatics (JBHI)    
-> Pattern Recognition       
-> Knowledge-Based Systems   
-> Medical Physics   
-> Scientific Reports  
-
+> Pattern Recognition  
+> Medical Physics        
+> Knowledge-Based Systems    
+> Expert Systems With Applications    
+> · · ·   
 
 <!-- # 🌍 Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
