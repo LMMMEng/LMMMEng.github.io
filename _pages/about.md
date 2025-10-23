@@ -58,6 +58,11 @@ Yunxiang Fu*, **Meng Lou***, Yizhou Yu
 *IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2025*       
 [[**Paper**](https://doi.org/10.1109/TNNLS.2025.3550979)] [[**Code**](https://goo.su/lySyydN)]
 
+📄 [**Advancing Image Super-resolution Techniques in Remote Sensing: A Comprehensive Survey**](https://arxiv.org/abs/2505.23248)   
+Yunliang Qi*, **Meng Lou***, Yimin Liu, Lu Li, Zhen Yang, Wen Nie  
+*ISPRS Journal of Photogrammetry and Remote Sensing, 2025*     
+[[**Paper**](https://arxiv.org/abs/2505.23248)]
+
 📄 [**SDR-Former: A Siamese Dual-Resolution Transformer for Liver Lesion Classification Using 3D Multi-Phase Imaging**](https://www.sciencedirect.com/science/article/pii/S0893608025001078)   
 **Meng Lou**, Hanning Ying, Xiaoqing Liu, Hong-Yu Zhou, Yuqin Zhang, Yizhou Yu   
 *Neural Networks, 2025*     
