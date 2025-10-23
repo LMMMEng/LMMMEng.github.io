@@ -44,7 +44,7 @@ I am currently a second-year Ph.D. student at [Department of Computer Science](h
 [[**Paper**](https://arxiv.org/abs/2502.20087)]  [[**Code**](https://github.com/LMMMEng/OverLoCK)]
 
 📄 [**SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation**](https://arxiv.org/abs/2412.11890)   
-Yunxiang Fu*, **Meng Lou***, Yizhou Yu    
+Yunxiang Fu, **Meng Lou**, Yizhou Yu    
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025*     
 [[**Paper**](https://arxiv.org/abs/2412.11890)] [[**Code**](https://github.com/yunxiangfu2001/SegMAN)]
 
@@ -59,7 +59,7 @@ Yunxiang Fu*, **Meng Lou***, Yizhou Yu
 [[**Paper**](https://doi.org/10.1109/TNNLS.2025.3550979)] [[**Code**](https://goo.su/lySyydN)]
 
 📄 [**Advancing Image Super-resolution Techniques in Remote Sensing: A Comprehensive Survey**](https://arxiv.org/abs/2505.23248)   
-Yunliang Qi*, **Meng Lou***, Yimin Liu, Lu Li, Zhen Yang, Wen Nie  
+Yunliang Qi, **Meng Lou**, Yimin Liu, Lu Li, Zhen Yang, Wen Nie  
 *ISPRS Journal of Photogrammetry and Remote Sensing, 2025*     
 [[**Paper**](https://arxiv.org/abs/2505.23248)]
 
