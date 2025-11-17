@@ -22,7 +22,7 @@ I am currently a second-year Ph.D. student at [Department of Computer Science](h
 
 
 # 🔥 News    
-- *2025.11*: &nbsp;🎉 [TransXNet](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7LpSm34AAAAJ&sortby=pubdate&citation_for_view=7LpSm34AAAAJ:IWHjjKOFINEC) is selected as [ESI Highly Cited Paper](https://www.webofscience.com/wos/woscc/full-record/WOS:001470575500001).   
+- *2025.11*: &nbsp;🎉 [TransXNet](https://scholar.google.com/scholar_lookup?hl=en&doi=10.1109/TNNLS.2025.3550979) is selected as [ESI Highly Cited Paper](https://www.webofscience.com/wos/woscc/full-record/WOS:001470575500001).   
 - *2025.10*: &nbsp;🎉 ``One`` paper is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).   
 - *2025.04*: &nbsp;🏆 [OverLoCK](https://arxiv.org/abs/2502.20087) is selected as an [**Oral Paper**](https://cvpr.thecvf.com/virtual/2025/oral/35285) at [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025) (**Top 3.3%** of the accepted papers).
 - *2025.03*: &nbsp;🎉 ``One`` paper is accepted by [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
@@ -56,7 +56,7 @@ Yunxiang Fu, **Meng Lou**, Yizhou Yu
 📄 [**TransXNet: Learning Both Global and Local Dynamics with a Dual Dynamic Token Mixer for Visual Recognition**](https://arxiv.org/abs/2310.19380)  
 **Meng Lou**, Shu Zhang, Hong-Yu Zhou, Sibei Yang, Chuan Wu, Yizhou Yu    
 *IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2025*       
-🏆ESI Highly Cited Paper    
+<font color="blue">🏆ESI Highly Cited Paper</font>       
 [[**Paper**](https://doi.org/10.1109/TNNLS.2025.3550979)] [[**Code**](https://goo.su/lySyydN)]
 
 📄 [**Advancing Image Super-resolution Techniques in Remote Sensing: A Comprehensive Survey**](https://doi.org/10.1016/j.isprsjprs.2025.10.024)   
