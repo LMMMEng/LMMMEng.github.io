@@ -81,7 +81,7 @@ Yunliang Qi, **Meng Lou**, Yimin Liu, Lu Li, Zhen Yang, Wen Nie
 - **Conference Reviewer:**
 > CVPR 2026     
 > ICLR 2026    
-> AAAI 2026      
+> AAAI 2026     
 > ICCV 2025     
 > NeurIPS 2025/2024  
 > MICCAI 2025/2024   
