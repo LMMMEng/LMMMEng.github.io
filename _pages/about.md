@@ -79,25 +79,24 @@ Yunliang Qi, **Meng Lou**, Yimin Liu, Lu Li, Zhen Yang, Wen Nie
 # 🔍 Academic Services
 
 - **Conference Reviewer:**
+> CVPR 2026     
 > ICLR 2026    
 > AAAI 2025    
 > ICCV 2025     
-> NeurIPS 2025/2024   
+> NeurIPS 2025/2024  
+> MICCAI 2025/2024   
 > BMCV 2025   
 > ECAI 2025   
-> MICCAI 2025/2024   
-> · · ·   
+> ···   
 
 - **Journal Reviewer:**
 > IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)      
 > IEEE Transactions on Neural Networks and Learning Systems (TNNLS)   
 > Transactions on Machine Learning Research (TMLR)   
-> IEEE Journal of Biomedical and Health Informatics (JBHI)    
-> Pattern Recognition  
-> Medical Physics        
-> Knowledge-Based Systems    
-> Expert Systems With Applications    
-> · · ·   
+> IEEE Journal of Biomedical and Health Informatics (JBHI)   
+> International Journal of Applied Earth Observation and Geoinformation     
+> Pattern Recognition   
+> ···   
 
 <!-- # 🌍 Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
