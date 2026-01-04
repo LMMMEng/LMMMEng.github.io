@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📝 Biography
-I am currently a second-year Ph.D. student at [Department of Computer Science](https://www.cds.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), where I have the privilege of being supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/index.html) (ACM/IEEE Fellow). My research focuses on the intersection of computer vision and machine learning, particularly in developing **vision foundation models**.
+I am currently a third-year Ph.D. student at [Department of Computer Science](https://www.cds.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), where I have the privilege of being supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/index.html) (ACM/IEEE Fellow). My research focuses on the intersection of computer vision and machine learning, particularly in developing **vision foundation models**.
 
 
 # 🔥 News    
