@@ -22,6 +22,7 @@ I am currently a third-year Ph.D. student at [Department of Computer Science](ht
 
 
 # 🔥 News    
+- *2026.01*: &nbsp;🎉 ``One`` paper is accepted by [ICLR 2026](https://iclr.cc/).
 - *2025.11*: &nbsp;🎉 [TransXNet](https://scholar.google.com/scholar_lookup?hl=en&doi=10.1109/TNNLS.2025.3550979) is selected as **ESI Highly Cited Paper**.     
 - *2025.10*: &nbsp;🎉 ``One`` paper is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).   
 - *2025.04*: &nbsp;🏆 [OverLoCK](https://arxiv.org/abs/2502.20087) is selected as an [**Oral Paper**](https://cvpr.thecvf.com/virtual/2025/oral/35285) at [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025) (**Top 3.3%** of the accepted papers).
@@ -79,12 +80,14 @@ Yunliang Qi, **Meng Lou**, Yimin Liu, Lu Li, Zhen Yang, Wen Nie
 # 🔍 Academic Services
 
 - **Conference Reviewer:**
-> CVPR 2026     
+> ICML 2026   
+> ECCV 2026  
+> CVPR 2026       
 > ICLR 2026    
 > AAAI 2026     
 > ICCV 2025     
 > NeurIPS 2025/2024  
-> MICCAI 2025/2024   
+> MICCAI 2024-2026   
 > BMCV 2025   
 > ECAI 2025   
 > ···   
