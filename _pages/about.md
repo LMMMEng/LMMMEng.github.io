@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📝 Biography
-I am currently a third-year Ph.D. student at [Department of Computer Science](https://www.cds.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), where I have the privilege of being supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/index.html) (ACM/IEEE Fellow). My research focuses on the intersection of computer vision and machine learning, particularly in developing **vision foundation models**.
+I am currently a third-year Ph.D. student at [Department of Computer Science](https://www.cds.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), where I have the privilege of being supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/index.html) (ACM/IEEE Fellow). My research explores the intersection of computer vision and machine learning, with a specific focus on ``Vision Foundation Models``, ``Parameter-efficient Fine-tuning``, and ``Continual Learning``.
 
 
 # 🔥 News    
@@ -60,7 +60,7 @@ Yunxiang Fu, **Meng Lou**, Yizhou Yu
 <font color="blue">🏆ESI Highly Cited Paper</font>       
 [[**Paper**](https://doi.org/10.1109/TNNLS.2025.3550979)] [[**Code**](https://goo.su/lySyydN)]
 
-📄 [**Advancing Image Super-resolution Techniques in Remote Sensing: A Comprehensive Survey**](https://doi.org/10.1016/j.isprsjprs.2025.10.024)   
+<!-- 📄 [**Advancing Image Super-resolution Techniques in Remote Sensing: A Comprehensive Survey**](https://doi.org/10.1016/j.isprsjprs.2025.10.024)   
 Yunliang Qi, **Meng Lou**, Yimin Liu, Lu Li, Zhen Yang, Wen Nie  
 *ISPRS Journal of Photogrammetry and Remote Sensing, 2025*     
 [[**Paper**](https://doi.org/10.1016/j.isprsjprs.2025.10.024)]
@@ -68,7 +68,7 @@ Yunliang Qi, **Meng Lou**, Yimin Liu, Lu Li, Zhen Yang, Wen Nie
 📄 [**SDR-Former: A Siamese Dual-Resolution Transformer for Liver Lesion Classification Using 3D Multi-Phase Imaging**](https://www.sciencedirect.com/science/article/pii/S0893608025001078)   
 **Meng Lou**, Hanning Ying, Xiaoqing Liu, Hong-Yu Zhou, Yuqin Zhang, Yizhou Yu   
 *Neural Networks, 2025*     
-[[**Paper**](https://www.sciencedirect.com/science/article/pii/S0893608025001078)] [[**Data**](https://github.com/LMMMEng/LLD-MMRI-Dataset)]
+[[**Paper**](https://www.sciencedirect.com/science/article/pii/S0893608025001078)] [[**Data**](https://github.com/LMMMEng/LLD-MMRI-Dataset)] -->
 
 [➡️ **View More**](https://scholar.google.com/citations?hl=en&user=7LpSm34AAAAJ&view_op=list_works&sortby=pubdate)
 
@@ -94,10 +94,10 @@ Yunliang Qi, **Meng Lou**, Yimin Liu, Lu Li, Zhen Yang, Wen Nie
 
 - **Journal Reviewer:**
 > IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)      
-> IEEE Transactions on Neural Networks and Learning Systems (TNNLS)   
-> Transactions on Machine Learning Research (TMLR)   
-> IEEE Journal of Biomedical and Health Informatics (JBHI)   
-> International Journal of Applied Earth Observation and Geoinformation     
+> IEEE Transactions on Neural Networks and Learning Systems (TNNLS)    
+> IEEE Transactions on Medical Imaging (TMI)     
+> IEEE Journal of Biomedical and Health Informatics (JBHI)     
+> Transactions on Machine Learning Research (TMLR)      
 > Pattern Recognition   
 > ···   
 
