@@ -93,11 +93,13 @@ Yunliang Qi, **Meng Lou**, Yimin Liu, Lu Li, Zhen Yang, Wen Nie
 > ···   
 
 - **Journal Reviewer:**
-> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)      
-> IEEE Transactions on Neural Networks and Learning Systems (TNNLS)    
-> IEEE Transactions on Medical Imaging (TMI)     
-> IEEE Journal of Biomedical and Health Informatics (JBHI)     
-> Transactions on Machine Learning Research (TMLR)      
+> IEEE Transactions on Pattern Analysis and Machine Intelligence    
+> IEEE Transactions on Image Processing          
+> IEEE Transactions on Neural Networks and Learning Systems       
+> IEEE Transactions on Medical Imaging       
+> IEEE Journal of Biomedical and Health Informatics        
+> Transactions on Machine Learning Research  
+> ISPRS Journal of Photogrammetry and Remote Sensing     
 > Pattern Recognition   
 > ···   
 
