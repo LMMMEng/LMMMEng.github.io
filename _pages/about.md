@@ -18,7 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📝 Biography
-I am currently a third-year Ph.D. student at [Department of Computer Science](https://www.cds.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), where I have the privilege of being supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/index.html) (ACM/IEEE Fellow). My research explores the intersection of computer vision and machine learning, with a specific focus on ``Vision Foundation Models``, ``Parameter-efficient Fine-tuning``, and ``Continual Learning``.
+I am currently a third-year Ph.D. student at [Department of Computer Science](https://www.cds.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), where I have the privilege of being supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/index.html) (ACM/IEEE Fellow). My research explores the intersection of computer vision and machine learning, with a specific focus on:
+- Vision Foundation Models
+- Continual Learning
+- Parameter-efficient Fine-tuning 
+- Reinforcement Fine-tuning 
 
 
 # 🔥 News   
