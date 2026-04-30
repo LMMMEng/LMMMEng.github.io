@@ -22,7 +22,7 @@ I am currently a third-year Ph.D. student at [Department of Computer Science](ht
 
 
 # 🔥 News   
-- *2026.05*: &nbsp;🎉 ``Two`` paper is accepted by [ICML 2026](https://icml.cc/).
+- *2026.05*: &nbsp;🎉 ``Two`` paper are accepted by [ICML 2026](https://icml.cc/).
 - *2026.01*: &nbsp;🎉 ``One`` paper is accepted by [ICLR 2026](https://iclr.cc/).
 - *2025.11*: &nbsp;🎉 [TransXNet](https://scholar.google.com/scholar_lookup?hl=en&doi=10.1109/TNNLS.2025.3550979) is selected as **ESI Highly Cited Paper**.     
 - *2025.10*: &nbsp;🎉 ``One`` paper is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).   
