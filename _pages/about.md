@@ -21,7 +21,8 @@ redirect_from:
 I am currently a third-year Ph.D. student at [Department of Computer Science](https://www.cds.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), where I have the privilege of being supervised by [Prof. Yizhou Yu](https://i.cs.hku.hk/~yzyu/index.html) (ACM/IEEE Fellow). My research explores the intersection of computer vision and machine learning, with a specific focus on ``Vision Foundation Models``, ``Parameter-efficient Fine-tuning``, and ``Continual Learning``.
 
 
-# 🔥 News    
+# 🔥 News   
+- *2026.05*: &nbsp;🎉 ``Two`` paper is accepted by [ICML 2026](https://icml.cc/).
 - *2026.01*: &nbsp;🎉 ``One`` paper is accepted by [ICLR 2026](https://iclr.cc/).
 - *2025.11*: &nbsp;🎉 [TransXNet](https://scholar.google.com/scholar_lookup?hl=en&doi=10.1109/TNNLS.2025.3550979) is selected as **ESI Highly Cited Paper**.     
 - *2025.10*: &nbsp;🎉 ``One`` paper is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).   
@@ -37,6 +38,17 @@ I am currently a third-year Ph.D. student at [Department of Computer Science](ht
 # 📚 Publications
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/sparx.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
+
+📄 [**Scaling Continual Learning with Bi-Level Routing Mixture-of-Experts**](https://arxiv.org/abs/2602.03473)   
+**Meng Lou**, Yunxiang Fu, Yizhou Yu   
+*International Conference on Machine Learning (**ICML**), 2026*  
+[[**Paper**](https://arxiv.org/abs/2602.03473)] [[**Code is being finalized**](https://arxiv.org/abs/2602.03473)]
+
+📄 [**Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing**](https://arxiv.org/abs/2602.06862)   
+**Meng Lou**, Stanley Yu, Yizhou Yu   
+*International Conference on Machine Learning (**ICML**), 2026*  
+[[**Paper**](https://arxiv.org/abs/2602.06862)] [[**Code is being finalized**](https://arxiv.org/abs/2602.06862)]
+
 
 📄 [**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**](https://arxiv.org/abs/2502.20087)   
 **Meng Lou**, Yizhou Yu       
