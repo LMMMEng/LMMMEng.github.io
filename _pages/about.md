@@ -43,10 +43,10 @@ I am currently a third-year Ph.D. student at [Department of Computer Science](ht
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/sparx.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-📄 [**Scaling Continual Learning with Bi-Level Routing Mixture-of-Experts**](https://arxiv.org/abs/2602.03473)   
+📄 [**Scaling Continual Learning to 300+ Tasks with Bi-Level Routing Mixture-of-Experts**](https://arxiv.org/abs/2602.03473)   
 **Meng Lou**, Yunxiang Fu, Yizhou Yu   
 *International Conference on Machine Learning (**ICML**), 2026*  
-[[**Paper**](https://arxiv.org/abs/2602.03473)] [[**Code is being finalized**](https://arxiv.org/abs/2602.03473)]
+[[**Paper**](https://arxiv.org/abs/2602.03473)] [[**Code**](https://github.com/LMMMEng/CaRE)]
 
 📄 [**Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing**](https://arxiv.org/abs/2602.06862)   
 **Meng Lou**, Stanley Yu, Yizhou Yu   
