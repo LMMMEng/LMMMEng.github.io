@@ -26,6 +26,7 @@ I am currently a third-year Ph.D. student at [Department of Computer Science](ht
 
 
 # 🔥 News   
+- *2026.05*: &nbsp;🏅 I am recognized as a [Gold Reviewer of ICML 2026](https://icml.cc/Conferences/2026/ProgramCommittee).
 - *2026.05*: &nbsp;🎉 ``Two`` paper are accepted by [ICML 2026](https://icml.cc/).
 - *2026.01*: &nbsp;🎉 ``One`` paper is accepted by [ICLR 2026](https://iclr.cc/).
 - *2025.11*: &nbsp;🎉 [TransXNet](https://scholar.google.com/scholar_lookup?hl=en&doi=10.1109/TNNLS.2025.3550979) is selected as **ESI Highly Cited Paper**.     
@@ -51,7 +52,7 @@ I am currently a third-year Ph.D. student at [Department of Computer Science](ht
 📄 [**Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing**](https://arxiv.org/abs/2602.06862)   
 **Meng Lou**, Stanley Yu, Yizhou Yu   
 *International Conference on Machine Learning (**ICML**), 2026*  
-[[**Paper**](https://arxiv.org/abs/2602.06862)] [[**Code is being finalized**](https://arxiv.org/abs/2602.06862)]
+[[**Paper**](https://arxiv.org/abs/2602.06862)] [[**Code**](https://github.com/LMMMEng/ParaX)]
 
 
 📄 [**OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels**](https://arxiv.org/abs/2502.20087)   
