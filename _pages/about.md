@@ -41,6 +41,7 @@ I am currently a third-year Ph.D. student at [Department of Computer Science](ht
 - *2024.12*: &nbsp;🎉 ``One`` paper is accepted by [IEEE JBHI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020).
 - *2024.12*: &nbsp;🎉 ``One`` paper is accepted by [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
 - *2024.09*: &nbsp;🎉 I'm recognized as one of the [NeurIPS 2024 Top Reviewers](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers).
+- *2024.07*: &nbsp;🎉 I'm recognized as one of the [MICCAI 2024 Outstanding Reviewers](https://conferences.miccai.org/2024/en/MICCAI-2024-OUTSTANDING-REVIEWER-AWARDS.html).
 - *2024.01*: &nbsp;👨‍🎓 I commenced my PhD studies at [HKU](https://www.hku.hk/).
 
 # 📚 Publications
