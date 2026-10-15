@@ -108,12 +108,12 @@ Yunliang Qi, **Meng Lou**, Yimin Liu, Lu Li, Zhen Yang, Wen Nie
 # 🔍 Academic Services
 
 - **Conference Reviewer:**
-> ICML 2026-2027
-> NeurIPS 2024-2026
-> AAAI 2026-2027     
-> ECCV 2026  
+> ICLR 2026-2027   
+> NeurIPS 2024-2026     
+> AAAI 2026-2027           
+> ECCV 2026   
 > CVPR 2026       
-> ICLR 2026    
+> ICML 2026    
 > ICCV 2025     
 > MICCAI 2024-2026   
 > BMCV 2025   
@@ -121,9 +121,9 @@ Yunliang Qi, **Meng Lou**, Yimin Liu, Lu Li, Zhen Yang, Wen Nie
 > ···   
 
 - **Journal Reviewer:**
-> IEEE Transactions on Pattern Analysis and Machine Intelligence    
-> IEEE Transactions on Image Processing          
-> IEEE Transactions on Neural Networks and Learning Systems       
+> IEEE Transactions on Pattern Analysis and Machine Intelligence
+> IEEE Transactions on Neural Networks and Learning Systems           
+> IEEE Transactions on Image Processing            
 > IEEE Transactions on Medical Imaging       
 > IEEE Journal of Biomedical and Health Informatics        
 > Transactions on Machine Learning Research  
