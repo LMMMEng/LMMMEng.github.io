@@ -121,7 +121,7 @@ Yunliang Qi, **Meng Lou**, Yimin Liu, Lu Li, Zhen Yang, Wen Nie
 > ···   
 
 - **Journal Reviewer:**
-> IEEE Transactions on Pattern Analysis and Machine Intelligence
+> IEEE Transactions on Pattern Analysis and Machine Intelligence     
 > IEEE Transactions on Neural Networks and Learning Systems           
 > IEEE Transactions on Image Processing            
 > IEEE Transactions on Medical Imaging       
