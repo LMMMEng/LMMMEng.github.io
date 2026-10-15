@@ -26,7 +26,9 @@ I am currently a third-year Ph.D. student at [Department of Computer Science](ht
 
 
 # 🔥 News   
+- *2026.10*: &nbsp;🏅 I am recognized as a [Top Reviewer of NeurIPS 2026](https://neurips.cc/).
 - *2026.09*: &nbsp;🎉 ``One`` paper is accepted by [NeurIPS 2026](https://neurips.cc/).
+- *2026.09*: &nbsp;🎉 ``One`` paper is accepted by [Nature Communications](https://www.nature.com/ncomms/).
 - *2026.09*: &nbsp;🎉 ``One`` paper is accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
 - *2026.08*: &nbsp;🎉 ``One`` paper is accepted by [BMVC 2026](https://www.bmva.org/bmvc).
 - *2026.05*: &nbsp;🏅 I am recognized as a [Gold Reviewer of ICML 2026](https://icml.cc/Conferences/2026/ProgramCommittee).
@@ -51,7 +53,7 @@ I am currently a third-year Ph.D. student at [Department of Computer Science](ht
 📄 [**Overcoming Catastrophic Forgetting in Visual Continual Learning with Reinforcement Fine-Tuning**](https://arxiv.org/abs/2605.09640)   
 **Meng Lou**, Hanzhong Guo, Linwei Chen, Yizhou Yu   
 *Advances in Neural Information Processing Systems (**NeurIPS**), 2026*  
-[[**Paper**](https://arxiv.org/abs/2605.09640)] [[**Code is being prepared**](https://github.com/LMMMEng/RaPO)]
+[[**Paper**](https://arxiv.org/abs/2605.09640)] [[**Code**](https://github.com/LMMMEng/RaPO)]
 
 📄 [**Scaling Continual Learning to 300+ Tasks with Bi-Level Routing Mixture-of-Experts**](https://arxiv.org/abs/2602.03473)   
 **Meng Lou**, Yunxiang Fu, Yizhou Yu   
@@ -106,13 +108,13 @@ Yunliang Qi, **Meng Lou**, Yimin Liu, Lu Li, Zhen Yang, Wen Nie
 # 🔍 Academic Services
 
 - **Conference Reviewer:**
-> ICML 2026   
+> ICML 2026-2027
+> NeurIPS 2024-2026
+> AAAI 2026-2027     
 > ECCV 2026  
 > CVPR 2026       
 > ICLR 2026    
-> AAAI 2026     
 > ICCV 2025     
-> NeurIPS 2024-2026    
 > MICCAI 2024-2026   
 > BMCV 2025   
 > ECAI 2025   
