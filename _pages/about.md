@@ -88,6 +88,11 @@ Yunxiang Fu, **Meng Lou**, Yizhou Yu
 <font color="blue">🏆ESI Highly Cited Paper</font>       
 [[**Paper**](https://doi.org/10.1109/TNNLS.2025.3550979)] [[**Code**](https://goo.su/lySyydN)]
 
+📄 [**Learning to Represent Explicit Semantic Consistency in Medical Image Segmentation**](https://www.sciencedirect.com/science/article/abs/pii/S0031320326020042)  
+**Meng Lou**, Yunliang Qi, Linkun Yang, Xingxin Xu, Zhaoyang Cong, Chang Lei, Shiqiang Du, Zhen Yang    
+*Pattern Recognition (**PR**), 2027*       
+[[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0031320326020042)]
+
 <!-- 📄 [**Advancing Image Super-resolution Techniques in Remote Sensing: A Comprehensive Survey**](https://doi.org/10.1016/j.isprsjprs.2025.10.024)   
 Yunliang Qi, **Meng Lou**, Yimin Liu, Lu Li, Zhen Yang, Wen Nie  
 *ISPRS Journal of Photogrammetry and Remote Sensing, 2025*     
