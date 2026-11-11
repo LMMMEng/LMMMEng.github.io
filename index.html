@@ -1,0 +1,511 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Meng Lou (娄蒙) — Ph.D. Student, The University of Hong Kong</title>
+<meta name="description" content="Meng Lou (娄蒙) is a third-year Ph.D. student in the School of Computing and Data Science at The University of Hong Kong, working on computer vision and machine learning.">
+<meta name="author" content="Meng Lou">
+<link rel="canonical" href="https://lmmmeng.github.io/">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Meng Lou (娄蒙) — Ph.D. Student, The University of Hong Kong">
+<meta property="og:description" content="Computer vision and machine learning. Ph.D. student at The University of Hong Kong.">
+<meta property="og:url" content="https://lmmmeng.github.io/">
+<meta property="og:image" content="https://lmmmeng.github.io/assets/img/portrait.jpg">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="750">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#f7f5ee" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0c0e10" media="(prefers-color-scheme: dark)">
+
+<link rel="icon" href="assets/img/favicon.ico?v=3" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/web_icon_32x32.png?v=3">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/img/web_icon_16x16.png?v=3">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/img/web_icon_180x180.png?v=3">
+<link rel="stylesheet" href="assets/css/fonts.css">
+<link rel="stylesheet" href="assets/css/style.css">
+
+<script>
+  (function () {
+    var stored = null;
+    try { stored = localStorage.getItem('theme'); } catch (e) {}
+    var theme = stored || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    document.documentElement.dataset.theme = theme;
+    document.documentElement.classList.add('js');
+  }());
+</script>
+</head>
+
+<body id="top">
+
+<a class="skip-link" href="#main">Skip to content</a>
+
+<svg xmlns="http://www.w3.org/2000/svg" class="svg-sprite" aria-hidden="true" focusable="false">
+  <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M7 17 17 7M8 7h9v9"/></symbol>
+  <symbol id="i-up" viewBox="0 0 24 24"><path d="M12 19V5M6 11l6-6 6 6"/></symbol>
+  <symbol id="i-paper" viewBox="0 0 24 24"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8l-5-5Z"/><path d="M14 3v5h5"/><path d="M9 12h6M9 16h6"/></symbol>
+  <symbol id="i-mail" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3.5 7 8.5 6 8.5-6"/></symbol>
+  <symbol id="i-github" viewBox="0 0 24 24"><path fill="currentColor" stroke="none" d="M12 .5C5.73.5.5 5.73.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.56v-2.17c-3.2.7-3.87-1.36-3.87-1.36-.53-1.34-1.29-1.7-1.29-1.7-1.05-.72.08-.71.08-.71 1.16.08 1.77 1.19 1.77 1.19 1.03 1.77 2.7 1.26 3.36.96.1-.75.4-1.26.73-1.55-2.55-.29-5.23-1.28-5.23-5.7 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.18 1.18a11 11 0 0 1 5.79 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.12 3.05.74.81 1.18 1.84 1.18 3.1 0 4.43-2.69 5.41-5.25 5.69.41.36.78 1.06.78 2.14v3.17c0 .31.21.68.8.56A11.51 11.51 0 0 0 23.5 12C23.5 5.73 18.27.5 12 .5Z"/></symbol>
+  <symbol id="i-scholar" viewBox="0 0 24 24"><path d="m2 9.5 10-5 10 5-10 5-10-5Z"/><path d="M6 11.6V16c0 1.5 2.7 2.8 6 2.8s6-1.3 6-2.8v-4.4"/><path d="M22 9.5v5"/></symbol>
+  <symbol id="i-pin" viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.6"/></symbol>
+  <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.42 1.42M17.65 17.65l1.42 1.42M2 12h2M20 12h2M6.35 17.65l-1.42 1.42M19.07 4.93l-1.42 1.42"/></symbol>
+  <symbol id="i-moon" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79Z"/></symbol>
+  <symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></symbol>
+  <symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+  <symbol id="i-code" viewBox="0 0 24 24"><path d="m8 7-4 5 4 5M16 7l4 5-4 5M13.5 4l-3 16"/></symbol>
+</svg>
+
+<div class="progress" aria-hidden="true"><span></span></div>
+
+<header class="site-header">
+  <div class="container header__inner">
+    <nav class="nav" id="site-nav" aria-label="Primary">
+      <a href="#about" class="is-active">About Me</a>
+      <a href="#news">News</a>
+      <a href="#publications">Selected Publications</a>
+      <a href="#experience">Experience</a>
+      <a href="#services">Services</a>
+      <div class="nav__extra">
+        <a href="https://scholar.google.com/citations?hl=en&amp;user=7LpSm34AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">
+          <svg class="icon" aria-hidden="true"><use href="#i-scholar"/></svg> Google Scholar
+        </a>
+        <a href="https://github.com/LMMMEng">
+          <svg class="icon" aria-hidden="true"><use href="#i-github"/></svg> GitHub
+        </a>
+        <a href="mailto:lmzmm.0921@gmail.com">
+          <svg class="icon" aria-hidden="true"><use href="#i-mail"/></svg> lmzmm.0921@gmail.com
+        </a>
+      </div>
+    </nav>
+
+    <div class="header__actions">
+      <a class="icon-btn header__social" href="mailto:lmzmm.0921@gmail.com" aria-label="Email Meng Lou">
+        <svg class="icon" aria-hidden="true"><use href="#i-mail"/></svg>
+      </a>
+      <a class="icon-btn header__social" href="https://github.com/LMMMEng" aria-label="GitHub profile">
+        <svg class="icon" aria-hidden="true"><use href="#i-github"/></svg>
+      </a>
+      <button class="icon-btn theme-toggle" type="button" data-theme-toggle aria-label="Switch to dark theme" aria-pressed="false">
+        <svg class="icon icon--sun" aria-hidden="true"><use href="#i-sun"/></svg>
+        <svg class="icon icon--moon" aria-hidden="true"><use href="#i-moon"/></svg>
+      </button>
+      <button class="icon-btn nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open menu">
+        <svg class="icon icon--menu" aria-hidden="true"><use href="#i-menu"/></svg>
+        <svg class="icon icon--close" aria-hidden="true"><use href="#i-close"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- ============================ ABOUT ============================ -->
+  <section class="hero" id="about" aria-labelledby="about-title">
+    <span class="legacy-anchor" id="about-me" aria-hidden="true"></span>
+    <div class="container hero__grid">
+      <div class="hero__content">
+        <p class="eyebrow">
+          <span class="eyebrow__index">01</span>
+          <span class="eyebrow__rule" aria-hidden="true"></span>
+          <span>Ph.D. Student · Computer Vision &amp; Machine Learning</span>
+        </p>
+
+        <h1 class="hero__name" id="about-title">
+          Meng Lou <span class="hero__name-cn">娄蒙</span>
+        </h1>
+
+        <p class="hero__affil">
+          <a href="https://www.cds.hku.hk/">School of Computing and Data Science</a>
+          <span class="sep" aria-hidden="true">·</span>
+          <a href="https://www.hku.hk/">The University of Hong Kong</a>
+        </p>
+
+        <p class="hero__bio">
+          I am currently a third-year Ph.D. student at
+          <a href="https://www.cds.hku.hk/">School of Computing and Data Science</a>,
+          <a href="https://www.hku.hk/">The University of Hong Kong</a>,
+          where I have the privilege of being supervised by
+          <a href="https://i.cs.hku.hk/~yzyu/index.html">Prof. Yizhou Yu</a>
+          (ACM/IEEE Fellow). My research explores the intersection of computer vision and
+          machine learning, with a specific focus on:
+        </p>
+
+        <ol class="focus" aria-label="Research focus">
+          <li><span>01</span> Vision Foundation Models</li>
+          <li><span>02</span> Continual Learning</li>
+          <li><span>03</span> Parameter-efficient Fine-tuning</li>
+          <li><span>04</span> Reinforcement Fine-tuning</li>
+        </ol>
+
+        <div class="hero__actions">
+          <a class="hero-btn hero-btn--scholar" href="https://scholar.google.com/citations?hl=en&amp;user=7LpSm34AAAAJ&amp;view_op=list_works&amp;sortby=pubdate" aria-label="Google Scholar" title="Google Scholar">
+            <svg class="icon" aria-hidden="true"><use href="#i-scholar"/></svg>
+          </a>
+          <a class="hero-btn hero-btn--mail" href="mailto:lmzmm.0921@gmail.com" aria-label="Email" title="Email">
+            <svg class="icon" aria-hidden="true"><use href="#i-mail"/></svg>
+          </a>
+          <a class="hero-btn hero-btn--github" href="https://github.com/LMMMEng" aria-label="GitHub" title="GitHub">
+            <svg class="icon" aria-hidden="true"><use href="#i-github"/></svg>
+          </a>
+        </div>
+
+        <p class="hero__location">
+          <svg class="icon icon--xs" aria-hidden="true"><use href="#i-pin"/></svg>
+          Hong Kong SAR, China
+        </p>
+      </div>
+
+      <aside class="hero__portrait" aria-label="Portrait of Meng Lou">
+        <div class="portrait-frame">
+          <img src="assets/img/portrait.jpg" alt="Meng Lou" width="600" height="750">
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ============================ NEWS ============================ -->
+  <section class="section" id="news" aria-labelledby="news-title">
+    <span class="legacy-anchor" id="-news" aria-hidden="true"></span>
+    <div class="container">
+      <header class="section-head reveal">
+        <div>
+          <p class="kicker"><span class="kicker__index">02</span> Updates</p>
+          <h2 id="news-title">News</h2>
+        </div>
+      </header>
+
+      <div class="news-shell reveal">
+        <div class="news-panel" role="region" aria-label="News — scroll for more" tabindex="0">
+          <div class="news-list">
+          <article class="news-item">
+                        <time class="news-date" datetime="2026-10">2026.10</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🏅</span> I am recognized as a <a href="https://neurips.cc/">Top Reviewer of NeurIPS 2026</a>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2026-09">2026.09</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🎉</span> <code>One</code> paper is accepted by <a href="https://neurips.cc/">NeurIPS 2026</a>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2026-09">2026.09</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🎉</span> <code>One</code> paper is accepted by <a href="https://www.nature.com/ncomms/">Nature Communications</a>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2026-09">2026.09</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🎉</span> <code>One</code> paper is accepted by <a href="https://www.sciencedirect.com/journal/pattern-recognition">Pattern Recognition</a>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2026-08">2026.08</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🎉</span> <code>One</code> paper is accepted by <a href="https://www.bmva.org/bmvc">BMVC 2026</a>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2026-05">2026.05</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🏅</span> I am recognized as a <a href="https://icml.cc/Conferences/2026/ProgramCommittee">Gold Reviewer of ICML 2026</a>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2026-05">2026.05</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🎉</span> <code>Two</code> paper are accepted by <a href="https://icml.cc/">ICML 2026</a>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2026-01">2026.01</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🎉</span> <code>One</code> paper is accepted by <a href="https://iclr.cc/">ICLR 2026</a>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2025-11">2025.11</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🎉</span> <a href="https://scholar.google.com/scholar_lookup?hl=en&amp;doi=10.1109/TNNLS.2025.3550979">TransXNet</a> is selected as <strong>ESI Highly Cited Paper</strong>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2025-10">2025.10</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🎉</span> <code>One</code> paper is accepted by <a href="https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing">ISPRS Journal of Photogrammetry and Remote Sensing</a>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2025-04">2025.04</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🏆</span> <a href="https://arxiv.org/abs/2502.20087">OverLoCK</a> is selected as an <a href="https://cvpr.thecvf.com/virtual/2025/oral/35285">Oral Paper</a> at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a> (<strong>Top 3.3%</strong> of the accepted papers).</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2025-03">2025.03</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🎉</span> <code>One</code> paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE TNNLS</a>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2025-02">2025.02</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🎉</span> <code>Two</code> papers are accepted by <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2025-01">2025.01</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🎉</span> <code>One</code> paper is accepted by <a href="https://www.sciencedirect.com/journal/neural-networks">Neural Networks</a>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2024-12">2024.12</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🎉</span> <code>One</code> paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE JBHI</a>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2024-12">2024.12</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🎉</span> <code>One</code> paper is accepted by <a href="https://aaai.org/conference/aaai/aaai-25/">AAAI 2025</a>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2024-09">2024.09</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🎉</span> I'm recognized as one of the <a href="https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers">NeurIPS 2024 Top Reviewers</a>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2024-07">2024.07</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">🎉</span> I'm recognized as one of the <a href="https://conferences.miccai.org/2024/en/MICCAI-2024-OUTSTANDING-REVIEWER-AWARDS.html">MICCAI 2024 Outstanding Reviewers</a>.</p>
+                      </article>
+          <article class="news-item">
+                        <time class="news-date" datetime="2024-01">2024.01</time>
+                        <p class="news-text"><span class="news-ico" aria-hidden="true">👨‍🎓</span> I commenced my PhD studies at <a href="https://www.hku.hk/">HKU</a>.</p>
+                      </article>
+          </div>
+        </div>
+        <div class="news-bar" aria-hidden="true"><span class="news-bar__thumb"></span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================= PUBLICATIONS ========================= -->
+  <section class="section" id="publications" aria-labelledby="publications-title">
+    <span class="legacy-anchor" id="-selected-publications" aria-hidden="true"></span>
+    <div class="container">
+      <header class="section-head reveal">
+        <div>
+          <p class="kicker"><span class="kicker__index">03</span> Papers</p>
+          <h2 id="publications-title">Selected Publications</h2>
+        </div>
+      </header>
+
+      <div class="pubs">
+        <article class="pub reveal">
+          <div class="pub__stamp">
+            <span class="pub__venue">NeurIPS</span>
+            <span class="pub__year">2026</span>
+          </div>
+          <div class="pub__content">
+            <h3 class="pub__title"><a href="https://arxiv.org/abs/2605.09640">Overcoming Catastrophic Forgetting in Visual Continual Learning with Reinforcement Fine-Tuning</a></h3>
+            <p class="pub__authors"><strong>Meng Lou</strong>, Hanzhong Guo, Linwei Chen, Yizhou Yu</p>
+            <p class="pub__venue-line">Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026</p>
+            <div class="pub__links">
+              <a class="link-pill link-pill--paper" href="https://arxiv.org/abs/2605.09640"><svg class="icon" aria-hidden="true"><use href="#i-paper"/></svg> Paper</a>
+              <a class="link-pill link-pill--code" href="https://github.com/LMMMEng/RaPO"><svg class="icon" aria-hidden="true"><use href="#i-code"/></svg> Code</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="pub reveal">
+          <div class="pub__stamp">
+            <span class="pub__venue">ICML</span>
+            <span class="pub__year">2026</span>
+          </div>
+          <div class="pub__content">
+            <h3 class="pub__title"><a href="https://arxiv.org/abs/2602.03473">Scaling Continual Learning to 300+ Tasks with Bi-Level Routing Mixture-of-Experts</a></h3>
+            <p class="pub__authors"><strong>Meng Lou</strong>, Yunxiang Fu, Yizhou Yu</p>
+            <p class="pub__venue-line">International Conference on Machine Learning (<strong>ICML</strong>), 2026</p>
+            <div class="pub__links">
+              <a class="link-pill link-pill--paper" href="https://arxiv.org/abs/2602.03473"><svg class="icon" aria-hidden="true"><use href="#i-paper"/></svg> Paper</a>
+              <a class="link-pill link-pill--code" href="https://github.com/LMMMEng/CaRE"><svg class="icon" aria-hidden="true"><use href="#i-code"/></svg> Code</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="pub reveal">
+          <div class="pub__stamp">
+            <span class="pub__venue">ICML</span>
+            <span class="pub__year">2026</span>
+          </div>
+          <div class="pub__content">
+            <h3 class="pub__title"><a href="https://arxiv.org/abs/2602.06862">Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing</a></h3>
+            <p class="pub__authors"><strong>Meng Lou</strong>, Stanley Yu, Yizhou Yu</p>
+            <p class="pub__venue-line">International Conference on Machine Learning (<strong>ICML</strong>), 2026</p>
+            <div class="pub__links">
+              <a class="link-pill link-pill--paper" href="https://arxiv.org/abs/2602.06862"><svg class="icon" aria-hidden="true"><use href="#i-paper"/></svg> Paper</a>
+              <a class="link-pill link-pill--code" href="https://github.com/LMMMEng/ParaX"><svg class="icon" aria-hidden="true"><use href="#i-code"/></svg> Code</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="pub reveal">
+          <div class="pub__stamp pub__stamp--oral">
+            <span class="pub__venue">CVPR</span>
+            <span class="pub__year">2025</span>
+            <span class="pub__oral">Oral Paper</span>
+          </div>
+          <div class="pub__content">
+            <h3 class="pub__title"><a href="https://arxiv.org/abs/2502.20087">OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels</a></h3>
+            <p class="pub__authors"><strong>Meng Lou</strong>, Yizhou Yu</p>
+            <p class="pub__venue-line">IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</p>
+            <p class="pub__honor"><span aria-hidden="true">🏅</span> Top 3.3% of the accepted papers</p>
+            <div class="pub__links">
+              <a class="link-pill link-pill--paper" href="https://arxiv.org/abs/2502.20087"><svg class="icon" aria-hidden="true"><use href="#i-paper"/></svg> Paper</a>
+              <a class="link-pill link-pill--code" href="https://github.com/LMMMEng/OverLoCK"><svg class="icon" aria-hidden="true"><use href="#i-code"/></svg> Code</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="pub reveal">
+          <div class="pub__stamp">
+            <span class="pub__venue">CVPR</span>
+            <span class="pub__year">2025</span>
+          </div>
+          <div class="pub__content">
+            <h3 class="pub__title"><a href="https://arxiv.org/abs/2412.11890">SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation</a></h3>
+            <p class="pub__authors">Yunxiang Fu, <strong>Meng Lou</strong>, Yizhou Yu</p>
+            <p class="pub__venue-line">IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</p>
+            <div class="pub__links">
+              <a class="link-pill link-pill--paper" href="https://arxiv.org/abs/2412.11890"><svg class="icon" aria-hidden="true"><use href="#i-paper"/></svg> Paper</a>
+              <a class="link-pill link-pill--code" href="https://github.com/yunxiangfu2001/SegMAN"><svg class="icon" aria-hidden="true"><use href="#i-code"/></svg> Code</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="pub reveal">
+          <div class="pub__stamp">
+            <span class="pub__venue">AAAI</span>
+            <span class="pub__year">2025</span>
+          </div>
+          <div class="pub__content">
+            <h3 class="pub__title"><a href="https://arxiv.org/abs/2409.09649">SparX: A Sparse Cross-Layer Connection Mechanism for Hierarchical Vision Mamba and Transformer Networks</a></h3>
+            <p class="pub__authors"><strong>Meng Lou</strong>, Yunxiang Fu, Yizhou Yu</p>
+            <p class="pub__venue-line">AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</p>
+            <div class="pub__links">
+              <a class="link-pill link-pill--paper" href="https://arxiv.org/abs/2409.09649"><svg class="icon" aria-hidden="true"><use href="#i-paper"/></svg> Paper</a>
+              <a class="link-pill link-pill--code" href="https://github.com/LMMMEng/SparX"><svg class="icon" aria-hidden="true"><use href="#i-code"/></svg> Code</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="pub reveal">
+          <div class="pub__stamp pub__stamp--journal">
+            <span class="pub__venue">TNNLS</span>
+            <span class="pub__year">2025</span>
+          </div>
+          <div class="pub__content">
+            <h3 class="pub__title"><a href="https://arxiv.org/abs/2310.19380">TransXNet: Learning Both Global and Local Dynamics with a Dual Dynamic Token Mixer for Visual Recognition</a></h3>
+            <p class="pub__authors"><strong>Meng Lou</strong>, Shu Zhang, Hong-Yu Zhou, Sibei Yang, Chuan Wu, Yizhou Yu</p>
+            <p class="pub__venue-line">IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2025</p>
+            <p class="award"><span aria-hidden="true">🏆</span> <strong class="award__label">ESI Highly Cited Paper</strong></p>
+            <div class="pub__links">
+              <a class="link-pill link-pill--paper" href="https://doi.org/10.1109/TNNLS.2025.3550979"><svg class="icon" aria-hidden="true"><use href="#i-paper"/></svg> Paper</a>
+              <a class="link-pill link-pill--code" href="https://goo.su/lySyydN"><svg class="icon" aria-hidden="true"><use href="#i-code"/></svg> Code</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="pub reveal">
+          <div class="pub__stamp pub__stamp--journal">
+            <span class="pub__venue">PR</span>
+            <span class="pub__year">2027</span>
+          </div>
+          <div class="pub__content">
+            <h3 class="pub__title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320326020042">Learning to Represent Explicit Semantic Consistency in Medical Image Segmentation</a></h3>
+            <p class="pub__authors"><strong>Meng Lou</strong>, Yunliang Qi, Linkun Yang, Xingxin Xu, Zhaoyang Cong, Chang Lei, Shiqiang Du, Zhen Yang</p>
+            <p class="pub__venue-line">Pattern Recognition (<strong>PR</strong>), 2027</p>
+            <div class="pub__links">
+              <a class="link-pill link-pill--paper" href="https://www.sciencedirect.com/science/article/abs/pii/S0031320326020042"><svg class="icon" aria-hidden="true"><use href="#i-paper"/></svg> Paper</a>
+            </div>
+          </div>
+        </article>
+      </div>
+
+      <a class="more-link reveal" href="https://scholar.google.com/citations?hl=en&amp;user=7LpSm34AAAAJ&amp;view_op=list_works&amp;sortby=pubdate" aria-label="View more publications on Google Scholar">
+        View More
+        <svg class="icon" aria-hidden="true"><use href="#i-arrow"/></svg>
+      </a>
+    </div>
+  </section>
+
+  <!-- ========================== EXPERIENCE ========================== -->
+  <section class="section" id="experience" aria-labelledby="experience-title">
+    <div class="container">
+      <header class="section-head reveal">
+        <div>
+          <p class="kicker"><span class="kicker__index">04</span> Background</p>
+          <h2 id="experience-title">Work Experiences</h2>
+        </div>
+      </header>
+
+      <div class="exp">
+        <article class="exp-item reveal">
+          <p class="exp-period">2022.07 — 2023.12</p>
+          <div class="exp-body">
+            <h3 class="exp-role">Researcher</h3>
+            <p class="exp-org">AI Lab, Deepwise Healthcare.</p>
+          </div>
+          <span class="exp-num" aria-hidden="true">01</span>
+        </article>
+        <article class="exp-item reveal">
+          <p class="exp-period">2021.07 — 2021.10</p>
+          <div class="exp-body">
+            <h3 class="exp-role">RD Intern</h3>
+            <p class="exp-org">Intelligent Creation, ByteDance.</p>
+          </div>
+          <span class="exp-num" aria-hidden="true">02</span>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- =========================== SERVICES =========================== -->
+  <section class="section" id="services" aria-labelledby="services-title">
+    <span class="legacy-anchor" id="-academic-services" aria-hidden="true"></span>
+    <div class="container">
+      <header class="section-head reveal">
+        <div>
+          <p class="kicker"><span class="kicker__index">05</span> Peer Review</p>
+          <h2 id="services-title">Academic Services</h2>
+        </div>
+      </header>
+
+      <div class="service-grid">
+        <article class="service-card reveal">
+          <h3>Conference Reviewer</h3>
+          <ul class="service-list">
+            <li><span>ICLR</span><span class="years">2026-2027</span></li>
+            <li><span>NeurIPS</span><span class="years">2024-2026</span></li>
+            <li><span>AAAI</span><span class="years">2026-2027</span></li>
+            <li><span>ECCV</span><span class="years">2026</span></li>
+            <li><span>CVPR</span><span class="years">2026</span></li>
+            <li><span>ICML</span><span class="years">2026</span></li>
+            <li><span>ICCV</span><span class="years">2025</span></li>
+            <li><span>MICCAI</span><span class="years">2024-2026</span></li>
+            <li><span>BMCV</span><span class="years">2025</span></li>
+            <li><span>ECAI</span><span class="years">2025</span></li>
+            <li class="service-more"><span aria-label="and more">···</span></li>
+          </ul>
+        </article>
+
+        <article class="service-card reveal">
+          <h3>Journal Reviewer</h3>
+          <ul class="service-list service-list--journals">
+            <li><span>IEEE Transactions on Pattern Analysis and Machine Intelligence</span></li>
+            <li><span>IEEE Transactions on Neural Networks and Learning Systems</span></li>
+            <li><span>IEEE Transactions on Image Processing</span></li>
+            <li><span>IEEE Transactions on Medical Imaging</span></li>
+            <li><span>IEEE Journal of Biomedical and Health Informatics</span></li>
+            <li><span>Transactions on Machine Learning Research</span></li>
+            <li><span>ISPRS Journal of Photogrammetry and Remote Sensing</span></li>
+            <li><span>Pattern Recognition</span></li>
+            <li class="service-more"><span aria-label="and more">···</span></li>
+          </ul>
+        </article>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer__links reveal">
+      <a href="mailto:lmzmm.0921@gmail.com"><svg class="icon" aria-hidden="true"><use href="#i-mail"/></svg> lmzmm.0921@gmail.com</a>
+      <a href="https://scholar.google.com/citations?hl=en&amp;user=7LpSm34AAAAJ&amp;view_op=list_works&amp;sortby=pubdate"><svg class="icon" aria-hidden="true"><use href="#i-scholar"/></svg> Google Scholar</a>
+      <a href="https://github.com/LMMMEng"><svg class="icon" aria-hidden="true"><use href="#i-github"/></svg> GitHub</a>
+    </div>
+    <div class="footer__bottom">
+      <span>© 2026 Meng Lou</span>
+      <a class="back-top" href="#top">Back to top <svg class="icon icon--xs" aria-hidden="true"><use href="#i-up"/></svg></a>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
