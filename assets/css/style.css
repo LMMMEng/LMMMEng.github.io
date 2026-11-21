@@ -875,9 +875,6 @@ html[data-theme="dark"] .pub:hover .pub__stamp { box-shadow: none; }
 .award > span[aria-hidden] { font-size: 16px; }
 .award__label {
   font-weight: 700;
-  text-decoration: underline;
-  text-decoration-thickness: 1.5px;
-  text-underline-offset: 3px;
 }
 .award__detail {
   color: var(--muted);
